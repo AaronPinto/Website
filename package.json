@@ -20,8 +20,8 @@
     },
     "homepage": "https://github.com/AaronPinto/Website#readme",
     "devDependencies": {
-        "clean-css-cli": "^5.4.2",
-        "critical": "^4.0.1",
+        "clean-css-cli": "^5.6.1",
+        "critical": "^5.0.2",
         "html-minifier": "^4.0.0"
     }
 }
